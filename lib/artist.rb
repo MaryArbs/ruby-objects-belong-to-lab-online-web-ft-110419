@@ -7,6 +7,6 @@ class Artists
   end
 
   def name
-    @name 
-  end 
+    @name
+  end
 end
